@@ -1,0 +1,2 @@
+# Template_Windows_2008_R2_IIS_Servers-RUS
+Template_Windows_2008_R2_IIS_Servers Мониторинг IIS на 2008R2-rus
